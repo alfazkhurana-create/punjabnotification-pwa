@@ -1,0 +1,21 @@
+{
+  "name": "Punjab Notification",
+  "short_name": "PunjabNotif",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d6efd",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHo_99D2hVhYQ5-QHKNRRW7zFaXg3sO7dZJLVhJyjYoENujHF1bQADBJscw35QKEsMbAOnctHizka-vnS4qp4Xritqy0wFDaAkVmmkFoThpZCC6SA29SdHrCdgzRKWvciD5hdZscFSV_JGsGNxXXKvu90hyphenhyphen2ThQ00gJJ-FmjXJ2JOYZBV1vREI87AyT2k/s192/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1QOdj0qm5IN-YRTB8luZvQ7pMS8PGoyV6j9BSmKgGq3Bss81XvvLjKHT14lL-Txsjo-fwzLQKFOdZXdPQbF46SEm3mORUiUwhMXbxRYa-xGD8k0AO8YtnOMDyx-0geDPep9Ev4iYd2aMTpropnKpbulqGEmdUUiW8ZKA_bTeqEZhywkQv6BjpoP4uAlc/s512/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
